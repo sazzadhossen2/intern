@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>215428045344-bk35jkn05ipep0v4po9r1tk62ip9lkiu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.215428045344-bk35jkn05ipep0v4po9r1tk62ip9lkiu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfNqUOhRDgDA-ZmFdKiFgiM45IuzBLgI0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>215428045344</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.intern.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fireside-chat-5df62</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireside-chat-5df62.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:215428045344:ios:1dc443ab4e6d076781fa45</string>
+	<key>DATABASE_URL</key>
+	<string>https://fireside-chat-5df62-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
